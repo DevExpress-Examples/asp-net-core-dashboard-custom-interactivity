@@ -25,4 +25,5 @@ This example shows the following interactivity customization:
 
 ## More Examples
 
+- [Dashboard for Web Forms - How to add custom interactivity to a dashboard](https://github.com/DevExpress-Examples/web-forms-dashboard-custom-interactivity)
 - [Dashboard for Web Forms - How to Apply Master Filter in Code](https://github.com/DevExpress-Examples/asp-net-web-forms-dashboard-apply-master-filter-in-code)
