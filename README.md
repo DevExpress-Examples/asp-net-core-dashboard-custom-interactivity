@@ -17,7 +17,7 @@ This example shows the following interactivity customization:
 ## Files to Review
 
 * [CustomInteractivity.js](./CS/AspNetCoreDashboard_CustomInteractivity/wwwroot/js/CustomInteractivity.js)
-* [WebForm1.aspx](./CS/AspNetCoreDashboard_CustomInteractivity/Pages/Index.cshtml) 
+* [Index.cshtml](./CS/AspNetCoreDashboard_CustomInteractivity/Pages/Index.cshtml) 
 
 ## Documentation
 
