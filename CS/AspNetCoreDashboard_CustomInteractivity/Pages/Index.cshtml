@@ -1,0 +1,14 @@
+﻿@page
+@using DevExpress.DashboardWeb
+    
+<div style="display: inline-block; float: left;">
+@(Html.DevExpress().Dashboard("dashboardControl")
+    .ControllerName("DefaultDashboard")
+    .Width("600px")
+    .Height("750px")
+    .OnBeforeRender("onBeforeRender")
+    .WorkingMode(WorkingMode.Viewer)
+)
+</div>
+
+<div id="barGauge" style="display: inline-block; float: left; width: 600px; height: 375px;"></div>
