@@ -1,4 +1,5 @@
 <!-- default badges list -->
+![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/537439231/22.1.5%2B)
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1117602)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
@@ -21,7 +22,7 @@ This example shows the following interactivity customization:
 ## Files to Review
 
 * [CustomInteractivity.js](./CS/AspNetCoreDashboard_CustomInteractivity/wwwroot/js/CustomInteractivity.js)
-* [WebForm1.aspx](./CS/AspNetCoreDashboard_CustomInteractivity/Pages/Index.cshtml) 
+* [Index.cshtml](./CS/AspNetCoreDashboard_CustomInteractivity/Pages/Index.cshtml) 
 
 ## Documentation
 
@@ -29,4 +30,5 @@ This example shows the following interactivity customization:
 
 ## More Examples
 
+- [Dashboard for Web Forms - How to add custom interactivity to a dashboard](https://github.com/DevExpress-Examples/web-forms-dashboard-custom-interactivity)
 - [Dashboard for Web Forms - How to Apply Master Filter in Code](https://github.com/DevExpress-Examples/asp-net-web-forms-dashboard-apply-master-filter-in-code)
